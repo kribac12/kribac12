@@ -1,6 +1,6 @@
 ### Hi, welcome to my GitHub profile :tipping_hand_woman:
 
-#### I'm studying Front-end development at Noroff University College and live in Norway 👩‍🎓
+#### I'm studying Front-end development at Noroff University College and live in Norway.
 
 ___
 
