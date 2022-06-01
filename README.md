@@ -2,6 +2,8 @@
 
 #### I'm studying Front-end development at Noroff University College and live in Norway 👩‍🎓
 
+___
+
 - :woman_technologist: I’m currently working on my portfolio
 - 🌱 I’m currently learning JavaScript
 - 💻 I use `.html`, `.css` and `.js`
