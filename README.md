@@ -4,8 +4,8 @@
 
 ___
 
-- :woman_technologist: I’m currently working on my portfolio
-- 🌱 I’m currently learning JavaScript
+- :woman_technologist: I’m currently working on an auction website.
+- 🌱 I’m learning JavaScript
 - 💻 I use `.html`, `.css` and `.js`
 - 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/kristine-bache-a033ab173/)
 
