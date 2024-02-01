@@ -1,5 +1,5 @@
 ### Hi, I'm Kristine :tipping_hand_woman:
-$~$
+
 #### I'm studying Front-end development at Noroff University College and live in Norway
 ___
 - :woman_technologist: I’m currently writing a case study on Flutter
