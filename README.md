@@ -8,6 +8,7 @@ ___
 - 🌱 I’m learning JavaScript, React and Tailwind at the moment.
 - 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/kristine-bache-a033ab173/)
 - :woman_teacher: I am also a qualified teacher and have a master's degree in English literature 
+___
 
 ### Skills
 <div align="left">
