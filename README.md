@@ -1,14 +1,11 @@
 ### Hi, I'm Kristine :tipping_hand_woman:
-
+$~~$
 #### I'm studying Front-end development at Noroff University College and live in Norway
-
 ___
-
 - :woman_technologist: I’m currently writing a case study on Flutter
 - 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/kristine-bache-a033ab173/) | [E-mail](mailto:kristinembache@gmail.com)
 - :woman_teacher: I am also a qualified teacher and have a master's degree in English literature 
 ___
-
 $~~~~$
 #### Skills
 <div>
@@ -18,7 +15,7 @@ $~~~~$
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 </div>
-
+$~~$
 #### Currently learning
 <div >
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
