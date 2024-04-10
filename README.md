@@ -2,7 +2,7 @@
 
 #### I'm studying Front-end development at Noroff University College and live in Norway
 ___
-- :woman_technologist: I’m currently writing a case study on Flutter
+- :woman_technologist: I’m currently working on my final exam, creating an accommodation booking site.
 - 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/kristine-bache-a033ab173/) | [E-mail](mailto:kristinembache@gmail.com)
 - :woman_teacher: I am also a qualified teacher and have a master's degree in English literature 
 ___
